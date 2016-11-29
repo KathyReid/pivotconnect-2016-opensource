@@ -237,7 +237,7 @@ a:focus {
     margin: 20px auto;
     font-size: 150%;
 
-    opacity: 0.95;
+    opacity: 1;
 
     -webkit-box-sizing: border-box;
     -moz-box-sizing:    border-box;
@@ -254,7 +254,7 @@ a:focus {
 */
 .impress-enabled .step {
     margin: 0;
-    opacity: 0.05;
+    opacity: 0.03;
 
     -webkit-transition: opacity 1s;
     -moz-transition:    opacity 1s;
@@ -366,9 +366,14 @@ a:focus {
 
 #WordPress {
   background: url(../img/wordpress.png) no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+}
+
+#RaspberryPi {
+  background: url(../img/raspberry-pi-logo.png) no-repeat center center fixed;
+}
+
+#GitHubScreenshot {
+  background: url(../img/github-screenshot.png) no-repeat center center fixed;
 }
 
 .white {

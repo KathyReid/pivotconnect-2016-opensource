@@ -32,11 +32,36 @@ In fact, some of the most prevalent software and hardware in the world is open s
 
 SLIDE: WordPress
 
+WordPress for instance, powers about 1 in 4 websites across the world - and if you think of how many hundreds of millions of websites there are - well then there's at least 10s of millions of WordPress sites out there.
 
+So, WordPress code is developed by people all over the world - you're absolutely free to go in and have a look at the code, see how it works, pull it apart, and if you want to, make changes, make it better or tailor it to suit your needs.
 
+SLIDE: Raspberry Pi
+
+Are there any Raspberry Pi fans in the house? Great!
+
+Raspberry Pi is an example of open source principles applied to hardware - open hardware. So instead of code being open source, here the schematic and hardware component designs are open and available to build on.
 
 ### GitHub
 
 SLIDE: GitHub
 
-And just as Darren talked about platforms like AirBNB and Uber
+And just as Darren talked about platforms like AirBNB and Uber in the sharing economy, open source practitioners have platforms to share our code on as well - such as GitHub. So for instance GitHub allows me to look at or copy someone else's code, and then it allows me to submit back the alterations I've made.
+
+### Conclusion
+
+So, the implications for open source are far-reaching.
+
+#### Bugs are shallow
+
+For example, if there's an error or a bug in the code or in the design, and it's open source, it means that many more people can have a look, and identify and resolve the error. We call this the "many eyes make bugs shallow" principle.
+
+#### Collaborative effort
+
+Open source also makes collaborative efforts easier - for instance instead of people building the same thing - reinventing the wheel if you will, we can each concentrate on building *on* the work of others
+
+#### Making the future better for everyone
+
+And given the larger and larger role that technology plays in our lives, being able to have more robust technology, that's available for everyone to inspect, and which allows us to better collaborate together will make all our lives better!
+
+[Timed at 4 mins 20 to this point]
